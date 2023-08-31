@@ -1,11 +1,11 @@
 Hi, I’m Kevin Lee
 
-Experienced and professional developer based out of "Boulder, CO".
-Specialist in Ethereum smart contracts and advanced Bitcoin blockchain technology. 
-Experience working across the full stack in large web3 projects and applications. 
-Known for delivering clean quality code that is both tested and robust.
-Extensive experience trading on the Ethereum network and have developed a successful trading bot program that can increase your profits by 2X or more. This tool is called the Successful Sniper Bot.
-If you are interested in using this tool, please feel free to message me.
+Full Stack Developer with over 10 years of experience in
+Java/JS, Angular, Vue, React, Next.js, Node.js, Python, Ruby
+on Rails, WordPress, Shopify. Led development of $500K
+research project which was deemed a "gold standard" by
+the client. Increased client's revenue 2-fold after finetuning AI/ML-based algorithms. Well-acquainted with HR
+methodologies
 
 Thanks
 
