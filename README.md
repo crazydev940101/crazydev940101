@@ -1,6 +1,6 @@
-Hi, I’m Kevin Lee
+Hi, I’m Ariel Cruz
 
-Full Stack Developer with over 10 years of experience in
+Full Stack Developer with over 7 years of experience in
 Java/JS, Angular, Vue, React, Next.js, Node.js, Python, Ruby
 on Rails, WordPress, Shopify. Led development of $500K
 research project which was deemed a "gold standard" by
